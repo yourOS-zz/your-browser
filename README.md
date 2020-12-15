@@ -1,9 +1,8 @@
-# Your-browser
-the yourOS browser (works on most linux distros)
+# your-browser
+The yourOS web browser.
 
-# project stats 
-*started pir 1 (high)
+## About
+"Your Browser" is an open-source web browser based on Firefox, and bundled with yourOS.
 
-#about
-
-"Your browser" is a open sorce browser based on firefox it will be more lite and faster then firefox and aslo have a whole difrent look
+## Project Stats
+*started pir 1 (high)*
